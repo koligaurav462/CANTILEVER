@@ -1,0 +1,7 @@
+[submodule "ocrify"]
+    path = ocrify
+    url = https://github.com/koligaurav462/ocrify.git
+
+[submodule "web_scrapper"]
+    path = web_scrapper
+    url = https://github.com/koligaurav462/web_scrapper.git
