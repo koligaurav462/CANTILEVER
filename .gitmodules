@@ -4,3 +4,6 @@
 [submodule "web_scrapper"]
 	path = web_scrapper
 	url = https://github.com/koligaurav462/web_scrapper.git
+[submodule "Fake_News_Detector"]
+	path = Fake_News_Detector
+	url = https://github.com/koligaurav462/Fake_News_Detector.git
